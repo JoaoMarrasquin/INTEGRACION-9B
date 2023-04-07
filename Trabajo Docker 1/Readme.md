@@ -1,6 +1,6 @@
 ## ScreenShots
 
-<img src="assets/screenshot/frontend.PNG" height="800em" />
+<img src="assets/screenshot/frontend.png" height="600em" />
 
-<img src="assets/screenshot/backend.PNG" height="800em" />
+<img src="assets/screenshot/backend.png" height="600em" />
 
