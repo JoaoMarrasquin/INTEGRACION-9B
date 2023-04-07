@@ -7,7 +7,7 @@ SIN DOCKER
 
 <img src="assets/screenshot/backend.PNG" height="400em" />
 
-<img src="assets/screenshot/corriendobackend.PNG" height="400em" />
+<img src="assets/screenshot/corriendobackend.PNG" height="600em" />
 
 <img src="assets/screenshot/corriendofrontend.PNG" height="600em" />
 
@@ -25,9 +25,9 @@ CON DOCKER
 
 <img src="assets/screenshot/docker.png" height="400em" />
 
-<img src="assets/screenshot/dockerizado.PNG" height="500em" />
+<img src="assets/screenshot/dockerizado.PNG" height="700em" />
 
-<img src="assets/screenshot/getdockerizado.PNG" height="600em" />
+<img src="assets/screenshot/getdockerizado.PNG" height="700em" />
 
 <img src="assets/screenshot/postdockerizado.PNG" height="400em" />
 
