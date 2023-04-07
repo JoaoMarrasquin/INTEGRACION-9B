@@ -1,6 +1,6 @@
 ## ScreenShots
 
-<img src="assets/Trabajo%20Docker%201/frontend.PNG" height="1000em" />
+<img src="assets/screenshot/frontend.PNG" height="1000em" />
 
 <img src="assets/screenshot/BACKEND.png" height="600em" />
 
