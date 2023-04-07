@@ -31,7 +31,7 @@ CON DOCKER
 
 <img src="assets/screenshot/postdockerizado.PNG" height="400em" />
 
-<img src="assets/screenshot/deletedocker.PNG" height="400em" />
+<img src="assets/screenshot/deletedocker.png" height="400em" />
 
 <img src="assets/screenshot/putdockerizado.PNG" height="400em" />
 
