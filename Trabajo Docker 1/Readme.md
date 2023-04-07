@@ -25,7 +25,7 @@ CON DOCKER
 
 <img src="assets/screenshot/docker.PNG" height="400em" />
 
-<img src="assets/screenshot/dockerizador.PNG" height="400em" />
+<img src="assets/screenshot/dockerizado.PNG" height="400em" />
 
 <img src="assets/screenshot/getdockerizado.PNG" height="400em" />
 
