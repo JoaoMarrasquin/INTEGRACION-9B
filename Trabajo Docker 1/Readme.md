@@ -1,31 +1,7 @@
 ## ScreenShots
 
-<img src="assets/screenshot/frontend.PNG" height="1000em" />
+<img src="assets/screenshot/frontend.PNG" height="600em" />
 
-<img src="assets/screenshot/BACKEND.png" height="600em" />
+<img src="assets/screenshot/backend.png" height="600em" />
 
-<img src="assets/screenshot/CORRIENDO EL BACKEND.png" height="600em" />
-
-<img src="assets/screenshot/CORRIENDO EL FRONTEND.png" height="600em" />
-
-<img src="assets/screenshot/GET EN POSTMAN.png" height="600em" />
-
-<img src="assets/screenshot/POST EN POSTMAN.png" height="600em" />
-
-<img src="assets/screenshot/PUT EN POSTMAN.png" height="600em" />
-
-<img src="assets/screenshot/DELETE EN POSTMAN.png" height="600em" />
-
-<img src="assets/screenshot/CORRIENDO EL DOCKERIZADO.png" height="600em" />
-
-<img src="assets/screenshot/POST EN POSTMAN DOCKERIZADO.png" height="600em" />
-
-<img src="assets/screenshot/GET EN POSTMAN DOCKERIZADO.png" height="600em" />
-
-<img src="assets/screenshot/DELETE EN POSTMAN DOCKERIZADO.png" height="600em" />
-
-<img src="assets/screenshot/PUT EN POSTMAN DOCKERIZADO.png" height="600em" />
-
-<img src="assets/screenshot/PAGINA CON DOCJER.png" height="600em" />
-
-<img src="assets/screenshot/asd.png" height="600em" />
+<i
