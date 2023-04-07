@@ -29,7 +29,7 @@ CON DOCKER
 
 <img src="assets/screenshot/getdockerizado.PNG" height="700em" />
 
-<img src="assets/screenshot/postdockerizado.PNG" height="400em" />
+<img src="assets/screenshot/postdockerizado.PNG" height="700em" />
 
 <img src="assets/screenshot/deletedocker.png" height="600em" />
 
