@@ -11,13 +11,13 @@ SIN DOCKER
 
 <img src="assets/screenshot/corriendofrontend.PNG" height="600em" />
 
-<img src="assets/screenshot/get.PNG" height="500em" />
+<img src="assets/screenshot/get.PNG" height="700em" />
 
-<img src="assets/screenshot/post.PNG" height="400em" />
+<img src="assets/screenshot/post.PNG" height="600em" />
 
-<img src="assets/screenshot/delete.PNG" height="400em" />
+<img src="assets/screenshot/delete.PNG" height="600em" />
 
-<img src="assets/screenshot/put.PNG" height="400em" />
+<img src="assets/screenshot/put.PNG" height="600em" />
 
 
 
