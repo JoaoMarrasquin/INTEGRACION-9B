@@ -23,7 +23,7 @@ SIN DOCKER
 
 CON DOCKER
 
-<img src="assets/screenshot/docker.PNG" height="400em" />
+<img src="assets/screenshot/docker.png" height="400em" />
 
 <img src="assets/screenshot/dockerizado.PNG" height="400em" />
 
@@ -31,7 +31,7 @@ CON DOCKER
 
 <img src="assets/screenshot/postdockerizado.PNG" height="400em" />
 
-<img src="assets/screenshot/deletedockerizado.PNG" height="400em" />
+<img src="assets/screenshot/deletedocker.PNG" height="400em" />
 
 <img src="assets/screenshot/putdockerizado.PNG" height="400em" />
 
