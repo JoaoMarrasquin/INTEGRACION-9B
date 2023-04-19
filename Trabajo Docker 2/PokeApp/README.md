@@ -23,7 +23,7 @@ EDITANDO SIN DOCKER
 
 <img src="src/assets/images/App.PNG" height="400em" />
 
-<img src="src/assets/images/App2.PNG" height="400em" />
+<img src="src/assets/images/App2.png" height="400em" />
 
 DOCKER 
 
