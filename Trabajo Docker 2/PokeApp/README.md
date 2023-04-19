@@ -24,3 +24,13 @@ EDITANDO SIN DOCKER
 <img src="src/assets/images/App" height="400em" />
 
 <img src="src/assets/images/App2" height="400em" />
+
+DOCKER 
+
+<img src="src/assets/images/Dockerizar" height="400em" />
+
+<img src="src/assets/images/Imagen" height="400em" />
+
+<img src="src/assets/images/CambiosReal" height="400em" />
+
+<img src="src/assets/images/CambiosPagina" height="400em" />
