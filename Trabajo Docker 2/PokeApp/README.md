@@ -23,14 +23,14 @@ EDITANDO SIN DOCKER
 
 <img src="src/assets/images/App.PNG" height="400em" />
 
-<img src="src/assets/images/App2.png" height="400em" />
+<img src="src/assets/images/App2.PNG" height="400em" />
 
 DOCKER 
 
-<img src="src/assets/images/Dockerizar.PNG" height="400em" />
+<img src="src/assets/images/Dockerizar.PNG" height="700em" />
 
-<img src="src/assets/images/Imagen.PNG" height="400em" />
+<img src="src/assets/images/Imagen.PNG" height="700em" />
 
-<img src="src/assets/images/CambiosReal.PNG" height="400em" />
+<img src="src/assets/images/CambiosReal.PNG" height="700em" />
 
-<img src="src/assets/images/CambiosPagina.PNG" height="400em" />
+<img src="src/assets/images/CambiosPagina.PNG" height="700em" />
