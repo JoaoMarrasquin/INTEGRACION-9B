@@ -19,11 +19,11 @@ USANDO FUNCIONALIDADES PARA CREAR EL PROYECTO, COMPONENTES, SERVICIOS Y AÑADIR 
 
 EDITANDO SIN DOCKER
 
-<img src="src/assets/images/Editar.PNG" height="400em" />
+<img src="src/assets/images/Editar.PNG" height="700em" />
 
-<img src="src/assets/images/App.PNG" height="400em" />
+<img src="src/assets/images/App.PNG" height="700em" />
 
-<img src="src/assets/images/App2.PNG" height="400em" />
+<img src="src/assets/images/App2.PNG" height="700em" />
 
 DOCKER 
 
